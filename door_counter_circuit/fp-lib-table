@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "tf01a")(type "KiCad")(uri "${KIPRJMOD}/TF-01A")(options "")(descr ""))
+  (lib (name "bs-7")(type "KiCad")(uri "${KIPRJMOD}/BS-7")(options "")(descr ""))
+  (lib (name "ssd1306")(type "KiCad")(uri "${KIPRJMOD}/ssd1306")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)

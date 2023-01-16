@@ -1,3 +1,6 @@
 (sym_lib_table
   (lib (name "modules")(type "KiCad")(uri "${KIPRJMOD}/modules.kicad_sym")(options "")(descr ""))
+  (lib (name "tf01a")(type "KiCad")(uri "${KIPRJMOD}/TF-01A/TF-01A.kicad_sym")(options "")(descr ""))
+  (lib (name "bs-7")(type "KiCad")(uri "${KIPRJMOD}/BS-7/BS-7.kicad_sym")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/Library.kicad_sym")(options "")(descr ""))
 )
