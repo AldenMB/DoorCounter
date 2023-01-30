@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+"0.1uF","C1,C2,C3,C4,C5,C6,C7","Capacitor_SMD:C_0402_1005Metric","C1525"
+"TF-01A","MICRO_SD1","tf01a:TF-01A","C91145"
+"MMS9013-H-TP","Q1","Package_TO_SOT_SMD:SOT-23","C90160"
+"10k","R1,R2,R3,R4,R5,R6","Resistor_SMD:R_0603_1608Metric","C25804"
+"220","R7","Resistor_SMD:R_0805_2012Metric","C17557"

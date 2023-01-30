@@ -394,8 +394,7 @@
           "+3V3",
           "+5V",
           "GND",
-          "Net-(BT1-Pad+)",
-          "Net-(J2-Pad15)"
+          "Net-(BT1-Pad+)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
