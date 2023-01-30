@@ -1,4 +1,4 @@
-1673842000540
+5023924588026
 Library
 Prototype Space
 
@@ -6,3 +6,17 @@ Prototype Space
 0
 256
 256
+Library
+TO-92-configurable
+TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+TO-92L Inline Wide transistor
+0
+5
+5
+Library
+TO-92L_Inline_Wide
+TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+TO-92L Inline Wide transistor
+0
+3
+3
