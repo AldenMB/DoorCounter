@@ -41,7 +41,7 @@ Pin(15, Pin.IN, Pin.PULL_UP)
 sensor = rp2.StateMachine(0, ir_echo, freq=2 * 38_000, sideset_base=Pin(13), in_base = Pin(14))
 sensor.active(True)
 
-i2c = I2C(id=0, sda=Pin(4), scl=Pin(5))
+i2c = I2C(id=0, sda=Pin(8), scl=Pin(9))
 display = ssd1306.SSD1306_I2C(128, 64, i2c)
 display.text('Hello, World!', 0, 0, 1)
 display.show()
