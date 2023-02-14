@@ -1,7 +1,7 @@
 from machine import Pin, RTC
 import ds1302
 
-external = ds1302.DS1302(clk = Pin(2), dio = Pin(1), cs = Pin(0))
+external = ds1302.DS1302(clk = Pin(12), dio = Pin(10), cs = Pin(11))
 internal = RTC()
 
 def show():
